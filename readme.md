@@ -74,11 +74,11 @@
 
 ### Часть 3.
 
-		- React Select
-		- React Hook Form
-		- js-Cookie, clsx
-		- Webpack или Vite
-		- JSON, Cors
+	- React Select
+	- React Hook Form
+	- js-Cookie, clsx
+	- Webpack или Vite
+	- JSON, Cors
 
 ### TypeScript.
 
