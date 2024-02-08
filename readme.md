@@ -136,10 +136,10 @@
 	- GraphQL
 	- Apollo
 	- Умение работать с браузерами на высоком уровне
-			- Performance
-			- Memory
-			- Service Workers
-			- Throttling
+		- Performance
+		- Memory
+		- Service Workers
+		- Throttling
 	- Ключевые параметры оптимизации приложения
 	- DevOps
 
